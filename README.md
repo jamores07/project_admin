@@ -1,4 +1,4 @@
-# TraversyPress UI
+# AdminPress UI
 
 <img src="public/assets/img/screen.png" alt="Screenshot" />
 
